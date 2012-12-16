@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>my mobile WallPapers</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>LostFile_JPG_160200830</title>
+            <link>slides/LostFile_JPG_160200830.html#</link>
+            <pubDate>Sun, 16 Dec 2012 22:44:21 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LostFile_JPG_160200830.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/LostFile_JPG_160200830.jpg" width="270" height="480"/>
+            <guid isPermaLink="false">slides/LostFile_JPG_160200830.jpg</guid>
+        </item>
+        <item>
+            <title>LostFile_JPG_160200982</title>
+            <link>slides/LostFile_JPG_160200982.html#</link>
+            <pubDate>Sun, 16 Dec 2012 22:44:21 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LostFile_JPG_160200982.jpg" width="174" height="174"/>
+            <media:content  url="slides/LostFile_JPG_160200982.jpg" width="308" height="480"/>
+            <guid isPermaLink="false">slides/LostFile_JPG_160200982.jpg</guid>
+        </item>
+        <item>
+            <title>LostFile_JPG_160201134</title>
+            <link>slides/LostFile_JPG_160201134.html#</link>
+            <pubDate>Sun, 16 Dec 2012 22:44:21 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LostFile_JPG_160201134.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/LostFile_JPG_160201134.jpg" width="270" height="480"/>
+            <guid isPermaLink="false">slides/LostFile_JPG_160201134.jpg</guid>
+        </item>
+        <item>
+            <title>LostFile_JPG_160201286</title>
+            <link>slides/LostFile_JPG_160201286.html#</link>
+            <pubDate>Sun, 16 Dec 2012 22:44:21 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LostFile_JPG_160201286.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/LostFile_JPG_160201286.jpg" width="270" height="480"/>
+            <jalbum:exif originalDate="2/25/10 10:46 PM" cameraMake="Canon" cameraModel="Canon EOS 450D"/>
+            <guid isPermaLink="false">slides/LostFile_JPG_160201286.jpg</guid>
+        </item>
+        <item>
+            <title>LostFile_JPG_160200022</title>
+            <link>slides/LostFile_JPG_160200022.html#</link>
+            <pubDate>Sun, 16 Dec 2012 22:44:21 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LostFile_JPG_160200022.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/LostFile_JPG_160200022.jpg" width="270" height="480"/>
+            <guid isPermaLink="false">slides/LostFile_JPG_160200022.jpg</guid>
+        </item>
+        <item>
+            <title>LostFile_JPG_160200678</title>
+            <link>slides/LostFile_JPG_160200678.html#</link>
+            <pubDate>Sun, 16 Dec 2012 22:44:21 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LostFile_JPG_160200678.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/LostFile_JPG_160200678.jpg" width="270" height="480"/>
+            <guid isPermaLink="false">slides/LostFile_JPG_160200678.jpg</guid>
+        </item>
+    </channel>
+</rss>
